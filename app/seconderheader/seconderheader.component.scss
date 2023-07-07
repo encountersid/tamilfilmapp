@@ -1,0 +1,33 @@
+.header-container {
+  width:300%;
+  height: 105px;
+  background-color: #8B0000;
+
+  align-items: center;
+
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Iceberg';
+    letter-spacing: 6px;
+
+    color:#fff;
+  }
+  .common
+  {
+    .logout {
+      font-size: 28px;
+      font-weight: bold;
+      margin-right: 50px;
+      color:#fff;
+    }
+    .goback
+    {
+      font-size: 28px;
+      font-weight: bold;
+      margin-right: 50px;
+      color:#fff;
+    }
+  }
+  
+}

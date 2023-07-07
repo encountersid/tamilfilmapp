@@ -1,0 +1,70 @@
+[
+    {
+        "id":11,
+        "name":"Jailer",
+        "genre":"Genre:Action Comedy",
+        "expectedrelease":"Expected Release:August 13th 2023",
+        "productionhouse":"Production House:Sun Pictures",
+        "music":"Music:Anirudh Ravichander",
+        "cover":"https://th.bing.com/th/id/OIP.A7vIC2n61yCNYydYCyhZaQHaLk?pid=ImgDet&rs=1",
+        "director":"Directed By Nelson",
+        "cast":"Cast:Rajinikanth,Ramya Krishna,Mohanlal,Shivarajkumar"
+    },
+    {
+        "id":12,
+        "name":"Leo",
+        "genre":"Genre:Action",
+        "expectedrelease":"Expected Release:October 19th 2023",
+        "productionhouse":"Production House:Seven Screen Studio",
+        "music":"Music:Anirudh Ravichander",
+        "cover":"https://cdn.123telugu.com/content/wp-content/uploads/2023/06/leo-m.jpg",
+        "director":"Directed By Lokesh Kanagaraj",
+        "cast":"Cast:Vijay,Sanjay Dutt,Trisha,Arjun Sarja,Gautham Vasudev Menon"
+    },
+    {
+        "id":13,
+        "name":"Maaveeran",
+        "genre":"Genre:Political Action Thriller",
+        "expectedrelease":"Expected Release:July 14th 2023",
+        "productionhouse":"Production House:Red Giant Movies",
+        "music":"Music:Bharath Sankar",
+        "cover":"https://moviegalleri.net/wp-content/uploads/2022/07/Sivakarthikeyan-Maaveeran-Movie-First-Look-HD-Poster-983x1536.jpg",
+        "director":"Directed By Madonne Ashwin",
+        "cast":"Cast:Sivakarthikeyan,Aditi Shanker,Mysskin,Yogi Babu"
+    },
+   {
+        "id":14,
+        "name":"Indian 2",
+        "genre":"Genre:Vigilante Action Thriller",
+        "expectedrelease":"Expected Release:2024",
+        "productionhouse":"Production House:Lyca Productions",
+        "music":"Music:Anirudh Ravichander",
+        "cover":"https://i1.wp.com/www.socialnews.xyz/wp-content/uploads/2019/01/20/kamal-haasan-and-shankar-s-indian-2-movie-First-look-super-HD-posters-11.jpg?quality=90&zoom=1&ssl=1",
+        "director":"Directed By S Shankar",
+        "cast":"Cast:Kamal Hassan,Siddharth,Kajal Agarwal"
+    },
+    {
+        "id":14,
+        "name":"Dhruva Natchathiram",
+        "genre":"Genre:Spy Thriller",
+        "expectedrelease":"Expected Release:TBA",
+        "productionhouse":"Production House:Ondraga Entertainments",
+        "music":"Music:Harris Jayaraj",
+        "cover":"https://1.bp.blogspot.com/-6n6S_b7DRDo/Xq1F4KqwTgI/AAAAAAAAumo/RZXIfNbD_d0td9odf82-X93a3e0eL55SwCNcBGAsYHQ/s1600/Dhruva-Natchathiram-Poster-3.jpg",
+        "director":"Directed By Gautham Vasudev Menon",
+        "cast":"Cast:Vikram,Aishwarya Rajesh,Parthiban"
+    },
+    {
+        "id":15,
+        "name":"Kanguva ",
+        "genre":"Genre:Period Action Drama",
+        "expectedrelease":"Expected Release:2024",
+        "productionhouse":"Production House:Studio Green",
+        "music":"Music:Devi Sri Prasad",
+        "cover":"https://i.pinimg.com/750x/3f/51/65/3f5165f4bb629165479ae037486ae778.jpg",
+        "director":"Directed By Siva",
+        "cast":"Cast:Suriya,Disha Patani"
+    }
+    
+
+]
