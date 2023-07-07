@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "name": "Maanadu",
+        "director":"Directed by:Venkat Prabhu",
+        "Release":"Released on:25th November 2021",
+        "duration":"Duration:147 minutes",
+        "cbfc":"CBFC:U/A",
+        "genre":"Genre:Science fiction,Action Thriller",
+        "music":"Music:Yuvan Shankar Raja",
+        "productionhouse":"Production house:V House Productions",
+        "cover":"https://chennaivision.com/tamil-movies/wp-content/uploads/2021/11/maanadu.jpg",
+        "rating":"Rating(Out of 5):4.2",
+        "cast":"Cast:Silambarasan TR,SJ Surya,Kalyani Priyadarshan,Premji Amaren"
+    },
+    
+   {
+        "id":2,
+        "name":"Sarpatta Parambarai",
+        "director":"Directed by:PA Ranjith",
+        "Release":"Released on:22nd July 2021",
+        "duration":"Duration:173 minutes",
+        "cbfc":"CBFC:U/A",
+        "genre":"Genre:Period Sports Action",
+        "music":"Music:Santhosh Narayanan",
+        "productionhouse":"Production House:Neelam Productions & K9 Studios",
+        "cover":"https://bingeddata.s3.amazonaws.com/uploads/2021/07/Sarpatta-Parambarai-Tamil-Movie-Review.jpg",
+        "rating":"Rating(Out of 5):4.1",
+        "cast":"Cast:Arya,Pasupati,John Kokken,Dushara Vijayan,John Vijay"
+   },
+   {
+        "id":3,
+        "name":"Master",
+        "director":"Directed  by: Lokesh  Kanagaraj",
+        "Release":"Released on:13th January 2021",
+        "duration":"Duration:180 minutes",
+        "cbfc":"CBFC:U",
+        "genre":"Genre:Action Drama",
+        "music":"Music:Anirudh Ravichander",
+        "productionhouse":"Production House:XB Film Creators",
+        "cover":"https://www.emagine-entertainment.com/wp-content/uploads/2021/01/master-tamil-poster-600x801.jpg",
+        "rating":"Rating(Out of 5):4.0",
+        "cast":"Cast:Vijay,Vijay Sethupathi,Arjun Das,Malavika Mohanan,Andrea Jermiah,Shanthanu Bhagyaraj,Gouri G Kishan"
+   },
+   
+   {
+       "id":4,
+       "name":"Jay Bhim",
+       "director":"Directed by:T.J. Gnanavel",
+       "Release":"Released on:2nd November 2021",
+       "duration":"Duration:165 minutes",
+       "cbfc":"CBFC:A",
+       "genre":"Genre:Legal Drama",
+       "music":"Music:Sean Roldan",
+       "productionhouse":"Production house:2D Entertainment",
+       "cover":"https://th.bing.com/th/id/OIP.0rFdvFFp6XNX5q_VR79WYQAAAA?pid=ImgDet&rs=1",
+       "rating":"Rating(Out of 5):4.3",
+       "cast":"Cast:Suriya,Lijimol Jose,Manikandan,Rajisha Vijayan,Prakash Raj,Guru Somasundaram"
+   },
+  
+   {
+      "id":5,
+      "name":"Soorarai Potru ",
+      "director":"Directed by:Sudha Kongara",
+      "Release":"Released on:12th November 2020",
+      "duration":"Duration:153 minutes",
+      "cbfc":"CBFC:U",
+      "genre":"Genre:Drama",
+      "music":"Music:GV Prakash Kumar",
+      "productionhouse":"Production house:2D Entertainment & Sikhya Entertainment",
+      "cover":"https://th.bing.com/th/id/OIP.RAtGtjOkBQt8_ZLtzRqJOwAAAA?pid=ImgDet&rs=1",
+      "rating":"Rating(Out of 5):4.1",
+      "cast":"Cast:Suriya,Aparna Balamurali,Paresh Rawal,Urvashi"
+   },
+   {
+      "id":6,
+      "name":"Kaithi",
+      "director":"Directed by Lokesh Kanagaraj",
+      "Release":"Released on:25th October 2019",
+      "duration":"Duration:146 minutes",
+      "cbfc":"CBFC:U/A",
+      "genre":"Genre:Action Thriller",
+      "music":"Music:Sam CS",
+      "productionhouse":"Production house:DreamWarrior Pictures&Vivekananda Pictures",
+      "cover":"https://www.aitamil.com/wp-content/uploads/2019/10/Kaithi-Movie.jpg",
+      "rating":"Rating(Out of 5):4.4",
+      "cast":"Cast:Karthi,Narain,Arjun Das,Harish Uthaman"
+   },
+   {
+    "id":7,
+    "name":"Asuran",
+    "director":"Directed by Vetrimaaran",
+    "Release":"Released on:4th October 2019",
+    "duration":"Duration:140 minutes",
+    "cbfc":"CBFC:U/A",
+    "genre":"Genre:Period Action Drama",
+    "music":"Music:GV Prakash Kumar",
+    "productionhouse":"Production house:V Creations",
+    "cover":"https://th.bing.com/th/id/R.ba1244dc29a34659316bd2f21b83bc47?rik=PREzCX2tCUTykg&riu=http%3a%2f%2fonlookersmedia.in%2fwp-content%2fuploads%2f2019%2f01%2fasuran-first-look-poster-stills1.jpg&ehk=ofFaoqgsjV9ju2lztyzWhxSFN1mWj05CUVk9q7NGWos%3d&risl=&pid=ImgRaw&r=0",
+    "rating":"Rating(Out of 5):4.4",
+    "cast":"Cast:Dhanush,Manju Warrier,Pasupathi,Ken Karunas"
+   }
+]

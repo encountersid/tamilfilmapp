@@ -1,0 +1,88 @@
+[
+    {
+        "id":16,
+        "name":"Vikram",
+        "genre":"Genre:Action Thriller",
+        "cbfc":"CBFC:U/A",
+        "releasedon":"Released on:June 3rd 2022",
+        "duration":"Duration:174 minutes",
+        "productionhouse":"Production House:Raaj Kamal Films International",
+        "music":"Music:Anirudh Ravichander",
+        "cover":"https://tamil.filmibeat.com/fanimg/movie/2073/vikram-photos-images-13165.jpg",
+        "director":"Directed By Lokesh Kanagaraj",
+        "rating":"Rating(Out of 5):4.8",
+        "cast":"Cast:Kamal Hassan,Vijay Sethupathi,Fahadh Faasil,Narain,Gaythrie Shanker,Suriya"
+    },
+    {
+        "id":17,
+        "name":"Ponniyin Selvan Part I",
+        "genre":"Genre:Epic Historical Drama",
+        "cbfc":"CBFC:U/A",
+        "duration":"Duration:167 minutes",
+        "releasedon":"Released on:September 30th 2022",
+        "productionhouse":"Production House:Lyca Productions",
+        "music":"Music:AR Rahman",
+        "cover":"https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2022/ponniyin-selvan-part-1/poster.jpg",
+        "director":"Directed By Mani Rathnam",
+        "rating":"Rating(Out of 5):4.5",
+        "cast":"Cast:Vikram,Aishwarya Rai,Karthi,Trisha,Jayam Ravi,Aishwarya Lekshmi, Jayaram"
+    },
+    {
+        "id":18,
+        "name":"Vendhu Thanindhathu Kaadu",
+        "genre":"Genre:Neo-Noir",
+        "cbfc":"CBFC:U/A",
+        "releasedon":"Released on:September 15th 2022",
+        "duration":"Duration:178 minutes",
+        "productionhouse":"Production House:Vels Film International",
+        "music":"Music:AR Rahman",
+        "cover":"https://www.filmibeat.com/fanimg/movie/19876/vendhu-thanindhathu-kaadu-photos-images-74903.jpg",
+        "director":"Directed By Gautham Vasudev Menon",
+        "rating":"Rating(Out of 5):3.8",
+        "cast":"Cast:Silambarasan TR,Siddhi Idnani,Raadhika SarathKumar,Neeraj Madhav,Siddique"
+    },
+   {
+        "id":19,
+        "name":"Thiruchitrambalam",
+        "genre":"Genre:Romantic Comedy",
+        "cbfc":"CBFC:U",
+        "releasedon":"Released on:August 18th 2022",
+        "duration":"Duration:133 minutes",
+        "productionhouse":"Production House:Sun Pictures",
+        "music":"Music:Anirudh Ravichander",
+        "cover":"https://th.bing.com/th/id/OIP.dxrYcWdFN3QvEQ_LMeEfcQAAAA?pid=ImgDet&rs=1",
+        "director":"Directed By Mithran R Jawahar",
+        "rating":"Rating(Out of 5):3.75",
+        "cast":"Cast:Dhanush,Nitya Menen,Rashi Khanna,BharatiRaja,Prakash Raj"
+    },
+    {
+        "id":20,
+        "name":"Love Today",
+        "genre":"Genre:Romantic Comedy",
+        "cbfc":"CBFC:U",
+        "releasedon":"Released on:November 4th 2022",
+        "duration":"Duration:154 minutes",
+        "productionhouse":"Production House:AGS Entertainments",
+        "music":"Music:Yuvan Shankar Raja",
+        "cover":"https://th.bing.com/th/id/OIP.LBYy_AHU9EUhLRqNgTs7FwHaJX?pid=ImgDet&rs=1",
+        "director":"Directed By Pradeep Ranganathan",
+        "rating":"Rating(Out of 5):4.1",
+        "cast":"Cast:Pradeep Ranganathan,Ivana,Yogi Babu,Raveena Ravi,Sathyaraj"
+    },
+    {
+        "id":21,
+        "name":"Mahaan ",
+        "genre":"Genre:Action Thriller",
+        "cbfc":"CBFC:U",
+        "releasedon":"Released On:10th February 2022",
+        "duration":"Duration:162 minutes",
+        "productionhouse":"Production House:Seven Screen Studio",
+        "music":"Music:Santhosh Narayanan",
+        "cover":"https://th.bing.com/th/id/OIP.5UJDgyiNOoBJHSF_fwWX6AHaHa?pid=ImgDet&rs=1",
+        "director":"Directed By Karthik Subbaraj",
+        "rating":"Rating(Out of 5):3.6",
+        "cast":"Cast:Vikram,Dhruv Vikram,Simran"
+    }
+    
+
+]
